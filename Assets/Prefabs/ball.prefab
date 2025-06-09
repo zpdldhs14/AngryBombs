@@ -150,5 +150,5 @@ MonoBehaviour:
   explosionRadius: 5
   damageableLayers:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 576
   explosionEffect: {fileID: 389972561583142955, guid: a6a02baceacd0a34892152a14a057b79, type: 3}
